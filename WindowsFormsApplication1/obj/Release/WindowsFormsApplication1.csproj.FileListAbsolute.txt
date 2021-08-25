@@ -1,0 +1,13 @@
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Interop.WMPLib.dll
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AxInterop.WMPLib.dll
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Interop.WMPLib.dll
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\AxInterop.WMPLib.dll
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\code\2.pycode\13.douyin\player\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
